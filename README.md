@@ -18,12 +18,3 @@ Hangman is a classic word guessing game where the player is presented with a hid
 - Non-alphabetical characters or guesses longer than one letter are invalid.
 
 Enjoy playing Hangman!
-
-'''
-________
-|  | 
-|  0
-| /|\
-| / \
-|
-'''
