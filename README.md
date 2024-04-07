@@ -19,9 +19,11 @@ Hangman is a classic word guessing game where the player is presented with a hid
 
 Enjoy playing Hangman!
 
+'''
 ________
 |  | 
 |  0
 | /|\
 | / \
 |
+'''
